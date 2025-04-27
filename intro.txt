@@ -1,0 +1,47 @@
+WHAT IS TESTING? 
+Ans:
+1.Software testing is the process of finding errors in a sw product before it is luanched
+2.Validate Functioning and fetaure of software
+
+
+TYPE OF TESTING 
+Ans.
+1.Mauual Testing 
+2.Automatic Testing
+
+
+Testing by developer
+Unit Testing:Testing individual units or components 
+Integrated Testing: Testing between 2 units or components
+E-2-E Testing:Test start to end complete project 
+
+
+
+Q3.WHAT IS REACT TESTING Tools
+Ans.
+JEST Framework
+React Testing library 
+
+
+Q4.Where will we docus ?
+Mostly we focus onUnit and Integrated Testing
+But we will try to cover some E-2-E testing topics 
+React developers needs to do components testing mostly that come under unit testing 
+
+
+When react app install so 3 libraries we need for testing : 
+in package.json :
+@testing-library/jest-dom 
+@testing-library/react 
+@testing-library/user-event 
+
+
+By default test cases are available in App.test.js 
+command: npm run test
+
+Test suite means test file 
+
+
+jestjs.io website
+WRITE BASIC TEST CASES
+----------------------
